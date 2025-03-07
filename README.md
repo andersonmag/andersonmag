@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm from Alagoas, Brazil – an Internet Computer Technician at IFAL and a Technologist in Systems Analysis and Development at Cruzeiro do Sul.<br><br> 🔭 I have experience with Java (JSF, Spring ecosystem), MVC, Maven, JasperReports, JavaScript, TypeScript, React, Angular, HTML, CSS, Bootstrap, PrimeFaces, Git, GitLab, as well as PostgreSQL, MySQL, and MongoDB databases.<br> 💬 Let's talk about new opportunities! My portfolio link will be available **soon**.<br> 🌱 One of my biggest dreams is to use my knowledge to help people—whether through an app, a new idea, or an innovative creation. Making a difference in someone's life would be truly fantastic!</p>
+<p align="left">I'm from Alagoas, Brazil – an Internet Computer Technician at IFAL and a Technologist in Systems Analysis and Development at Cruzeiro do Sul.<br><br> 🔭 I have experience with Java (JSF, Spring ecosystem), MVC, Maven, JasperReports, JavaScript, TypeScript, React, Angular, HTML, CSS, Bootstrap, PrimeFaces, Git, GitLab, as well as PostgreSQL, MySQL, and MongoDB databases.<br> 💬 Let's talk about new opportunities! <a href="https://portifolio-anderson-delmondes.vercel.app/" target="_blank">My web portfolio</a>.<br> 🌱 One of my biggest dreams is to use my knowledge to help people—whether through an app, a new idea, or an innovative creation. Making a difference in someone's life would be truly fantastic!</p>
 
 ###
 
